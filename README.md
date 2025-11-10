@@ -16,7 +16,19 @@
     <p>I’m a polymer chemist currently doing my graduate studies at Case Western Reserve University.</p>
   </section>
   <footer>
-    <p>© 2025 Alex — Built with ❤️ using GitHub Pages</p>
+    <p>© 2025 Kushagra — Built with ❤️ using GitHub Pages</p>
   </footer>
 </body>
+  
 </html>
+body {
+  font-family: "Poppins", sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6;
+  color: #333;
+}
+header, footer {
+  text-align: center;
+}
