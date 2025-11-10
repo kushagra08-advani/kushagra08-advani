@@ -8,12 +8,12 @@
 </head>
 <body>
   <header>
-    <h1>Hello, I’m Alex 👋</h1>
+    <h1>Hello, I’m Kushagra 👋</h1>
     <p>Welcome to my personal website!</p>
   </header>
   <section>
     <h2>About Me</h2>
-    <p>I’m a web developer passionate about design and technology.</p>
+    <p>I’m a polymer chemist currently doing my graduate studies at Case Western Reserve University.</p>
   </section>
   <footer>
     <p>© 2025 Alex — Built with ❤️ using GitHub Pages</p>
